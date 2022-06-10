@@ -1,9 +1,9 @@
-<h2 align="centre">Telegram Group Music Player Bot 🎵</h2>
+<h2 align="centre">Khai Music 🎵</h2>
 
 ### A bot that can play music on telegram group's voice call
 
 <p align="center">
-  <img src="https://telegra.ph/file/e8da463b841d344854539.png">
+  <img src="https://te.legra.ph/file/879bdcd7d0eb6a505eb05.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
